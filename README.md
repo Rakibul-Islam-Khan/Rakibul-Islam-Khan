@@ -1,6 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://lottiefiles.com/29538-codeblock" height="175px"/></a>
-<iframe src="https://embed.lottiefiles.com/animation/29538"></iframe>
+<a href="#"><img width="100%" height="auto" src="https://ibb.co/7XFHkBK" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakibul Islam</h1>
 
