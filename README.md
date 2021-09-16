@@ -1,5 +1,5 @@
 
-<a href="#"><img width="500px" height="auto" src="https://i.postimg.cc/1tw2vpJs/undraw-dev-productivity-umsq-removebg.png"/></a>
+<a href="#"><img width="500px" height="auto" src="https://i.postimg.cc/1tw2vpJs/undraw-dev-productivity-umsq-removebg.png" style="display:bolck;margin:0 auto"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rakibul Islam</h1>
 
