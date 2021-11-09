@@ -64,6 +64,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rakibul-islam-khan-rik-381a86204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/rakibul-islam-khan-381a86204"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
